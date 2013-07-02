@@ -13,6 +13,8 @@ wget http://precure-live.com/allstars/image/cardlist/img_dress_shoes.jpg
 wget http://precure-live.com/allstars/image/cardlist/img_dress_hairacce.jpg
 ```
 
+`*-dd.jpg` で無い方のアイコンは旧作のものか？
+
 ```
 ic_launcher.png:                     512x512
 res/drawable-hdpi/ic_launcher.png:   72x72
