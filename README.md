@@ -29,3 +29,4 @@ rm icon.png generate-icons.sh
 ## References
 
 * http://d.hatena.ne.jp/pyopyopyo/20050801/p1
+* http://takuya-1st.hatenablog.jp/entry/20120411/1334169320
